@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    flex-direction: column;
+    place-content: center center;
+    place-items: center center;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center ;
+    align-items: center;
+    gap: 5px;
+}
+input{
+    display: flex;
+    flex: 0 0 2rem;
+    width: 25rem;
+}
